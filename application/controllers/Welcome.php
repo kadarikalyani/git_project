@@ -25,7 +25,7 @@ class Welcome extends CI_Controller {
     }
 
     public function testByKalyani() {
-        echo 'Made it inside the functions';
+        echo 'Made it inside the functions.';
     }
 
 }
