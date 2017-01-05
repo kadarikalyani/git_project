@@ -68,7 +68,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <body>
 
 <div id="container">
-	<h1>Welcome to CodeIgniter of kalyani!</h1>
+	<h1>class hellow CI_controller{
+            public fuction one ($p1){
+            echo "this is the one";
+            }
+            }!</h1>
 
 	<div id="body">
 		<p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
