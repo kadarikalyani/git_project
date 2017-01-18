@@ -71,7 +71,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <h1>
                 <?php
 
-                class Hellow CI_controller {
+                class Hello extends CI_controller {
 
                     public function one($p1) {
                         echo "this is the one";
